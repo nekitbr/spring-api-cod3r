@@ -179,4 +179,4 @@ target
 .gradle
 README.html
 .exercism
-/config/application.properties
+/src/main/resources/application.properties
